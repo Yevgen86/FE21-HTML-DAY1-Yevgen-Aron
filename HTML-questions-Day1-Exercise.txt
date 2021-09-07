@@ -1,0 +1,44 @@
+What is HTML?
+
+    HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images
+
+
+How many versions of HTML do you know?
+
+    HTML 1.0
+    HTML 2
+    HTML 3.2
+    HTML 4.01
+    HTML 5
+
+
+What are HTML elements? 
+
+    An HTML element is an individual component of an HTML document. It represents semantics, or meaning. For example, the title element represents the title of the document.
+
+    Most HTML elements are written with a start tag (or opening tag) and an end tag (or closing tag), with content in between. Elements can also contain attributes that defines its additional properties. 
+
+What is the difference between opening and closing tags?
+
+    All elements don't require the end tag or closing tag to be present. These are referred as empty elements, self-closing elements or void elements.
+
+What is an HTML block element?
+
+    In HTML programming, a block-level element is any element that starts a new line (e.g., paragraph) and uses the full width of the page or container. A block-level element can take up one line or multiple lines and has a line break before and after the element.
+
+What is an HTML inline element?
+
+    Inline elements display in a line. They do not force the text after them to a new line. An anchor (or link) is an example of an inline element. You can put several links in a row, and they will display in a line.
+
+What is the div tag and why is it important? 
+
+    The Div is the most usable tag in web development because it helps us to separate out data in the web page and we can create a particular section for particular data or function in the web pages. It is used to the group of various tags of HTML so that sections can be created and style can be applied to them.
+
+What is the difference between div and span elements?
+
+    div in HTML. Span and div are both generic HTML elements that group together related parts of a web page. However, they serve different functions. A div element is used for block-level organization and styling of page elements, whereas a span element is used for inline organization and styling.
+
+
+What is the purpose of semantic elements in HTML5?
+
+    One of the most important features of HTML5 is its semantics. Semantic HTML refers to syntax that makes the HTML more comprehensible by better defining the different sections and layout of web pages. It makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content.
